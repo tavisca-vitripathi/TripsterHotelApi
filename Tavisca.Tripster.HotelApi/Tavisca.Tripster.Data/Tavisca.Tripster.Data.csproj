@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="DataAcessLayer\" />
+    <Folder Include="Connection\" />
+    <Folder Include="Translator\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
+</Project>
